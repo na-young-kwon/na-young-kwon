@@ -14,6 +14,7 @@
 
 ## Education
 🐻 iOS 부트캠프 / 야곰아카데미
+([프로젝트 보기](https://github.com/na-young-kwon/iOS_Yagom_Academy))
 - 기간: 2021. 10. 04 ~ 2022. 4. 1 `(6개월)`
 - 9개의 프로젝트 수행을 통해 iOS 개발 전반 학습
 - 페어프로그래밍으로 진행되는 팀 프로젝트를 통해 협업 경험
@@ -26,7 +27,7 @@
 - 공식문서를 바탕으로 스스로 학습하는 방법을 배움
 
 ## Side Projects
-🚌 HighwayInfo([하이웨이 인포](https://apps.apple.com/kr/app/highwayinfo-고속도로-교통정보/id6449296080))
+🚌 HighwayInfo / 하이웨이 인포 ([앱 다운받기](https://apps.apple.com/kr/app/highwayinfo-고속도로-교통정보/id6449296080))
 - 고속도로 교통정보를 알려주는 앱
 - 개인 프로젝트 / 앱스토어 출시
 - 개발 기간: 2023. 3 ~ 2023. 5
