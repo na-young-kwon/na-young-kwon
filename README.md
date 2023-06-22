@@ -12,6 +12,14 @@
 
 <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-blue?style=flat-square&logo=Swift&logoColor=white">
 
+## Side Projects
+🚌 HighwayInfo / 하이웨이 인포 ([앱 다운받기](https://apps.apple.com/kr/app/highwayinfo-고속도로-교통정보/id6449296080))
+- 고속도로 교통정보를 알려주는 앱
+- 개인 프로젝트 / 앱스토어 출시
+- 개발 기간: 2023. 3 ~ 2023. 5
+([README](https://github.com/na-young-kwon/HighwayInfo) / [Wiki](https://github.com/na-young-kwon/HighwayInfo/wiki))
+
+
 ## Education
 🐻 iOS 부트캠프 / 야곰아카데미
 ([프로젝트 보기](https://github.com/na-young-kwon/iOS_Yagom_Academy))
@@ -26,13 +34,5 @@
 - Swift 기초 학습
 - 공식문서를 바탕으로 스스로 학습하는 방법을 배움
 
-## Side Projects
-🚌 HighwayInfo / 하이웨이 인포 ([앱 다운받기](https://apps.apple.com/kr/app/highwayinfo-고속도로-교통정보/id6449296080))
-- 고속도로 교통정보를 알려주는 앱
-- 개인 프로젝트 / 앱스토어 출시
-- 개발 기간: 2023. 3 ~ 2023. 5
-([README](https://github.com/na-young-kwon/HighwayInfo) / [Wiki](https://github.com/na-young-kwon/HighwayInfo/wiki))
-
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na-young-kwon&show_icons=true&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
