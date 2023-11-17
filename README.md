@@ -5,12 +5,6 @@
 - 더 나은 코드를 동료와 함께 고민합니다.
 - 읽기 쉬운 코드를 작성하는것에 관심이 많습니다.
 
-## Skills
-<img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=round-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-
-#### Studying
-
-<img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-blue?style=flat-square&logo=Swift&logoColor=white">
 
 ## Project
 ### HighwayInfo / 하이웨이 인포 ([앱 다운받기](https://apps.apple.com/kr/app/highwayinfo-고속도로-교통정보/id6449296080))
@@ -36,6 +30,15 @@
 - 기간: 2021. 8. 2 ~ 2021. 9. 3 `(5주)`
 - Swift 기초 학습
 - 공식문서를 바탕으로 스스로 학습하는 방법을 배움
+
+
+## Skills
+<img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=round-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+
+#### Studying
+
+<img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-blue?style=flat-square&logo=Swift&logoColor=white">
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na-young-kwon&show_icons=true&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
