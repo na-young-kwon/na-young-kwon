@@ -12,11 +12,14 @@
 
 <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-blue?style=flat-square&logo=Swift&logoColor=white">
 
-## Side Projects
-🚌 HighwayInfo / 하이웨이 인포 ([앱 다운받기](https://apps.apple.com/kr/app/highwayinfo-고속도로-교통정보/id6449296080))
-- 고속도로 교통정보를 알려주는 앱
-- 개인 프로젝트 / 앱스토어 출시
-- 개발 기간: 2023. 3 ~ 2023. 5
+## Project
+### HighwayInfo / 하이웨이 인포 ([앱 다운받기](https://apps.apple.com/kr/app/highwayinfo-고속도로-교통정보/id6449296080))
+<img src="https://github.com/na-young-kwon/na-young-kwon/assets/74536728/456c7756-62da-44c8-8557-9aec55211638" width = "700" height = "400">
+
+### 위치 정보와 지도를 활용한 고속도로 교통 정보를 제공하는 앱 서비스
+- 사용자 위치를 바탕으로 고속도로 교통사고 및 실시간 CCTV 정보를 제공합니다.
+- 고속도로 휴게시설(휴게소, 주유소) 정보를 제공합니다.
+- 지도에 내가 이용하는 고속도로를 표시합니다.
 ([README](https://github.com/na-young-kwon/HighwayInfo) / [Wiki](https://github.com/na-young-kwon/HighwayInfo/wiki))
 
 
