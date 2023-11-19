@@ -32,6 +32,14 @@
 - 공식문서를 바탕으로 스스로 학습하는 방법을 배움
 
 
+### 🍋 Blog Posts
+- [COW(Copy-On-Write)에 관한 고찰](https://velog.io/@na-young-kwon/COW%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B3%A0%EC%B0%B0)
+- [컬렉션뷰의 성능을 향상시키는 방법](https://velog.io/@na-young-kwon/%EC%BB%AC%EB%A0%89%EC%85%98%EB%B7%B0%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%84-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95)
+- [HighwayInfo 앱 출시기](https://velog.io/@na-young-kwon/iOS-HighwayInfo-%EC%95%B1-%EC%B6%9C%EC%8B%9C%EA%B8%B0)
+- [Alamofire로 네트워크 레이어 개선하기](https://velog.io/@na-young-kwon/Alamofire-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B3%A0-%EA%B0%80%EB%8F%85%EC%84%B1-%EB%86%92%EC%9D%B4%EA%B8%B0)
+
+
+
 ## Skills
 <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=round-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 
